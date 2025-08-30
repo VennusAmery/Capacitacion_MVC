@@ -1,0 +1,16 @@
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\bin\Debug\ejecucion.exe.config
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\bin\Debug\ejecucion.exe
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\bin\Debug\ejecucion.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\bin\Debug\CapaVista.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\bin\Debug\CapaControlador.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\bin\Debug\CapaModelo.dll
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\bin\Debug\CapaVista.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\bin\Debug\CapaControlador.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\bin\Debug\CapaModelo.pdb
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\obj\Debug\ejecucion.csproj.AssemblyReference.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\obj\Debug\ejecucion.Properties.Resources.resources
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\obj\Debug\ejecucion.csproj.GenerateResource.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\obj\Debug\ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\obj\Debug\ejecucion.csproj.CopyComplete
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\obj\Debug\ejecucion.exe
+C:\Users\dannus\Desktop\UMG\Ing. Sistemas\Analisis de Sistemas II\Capacitacion\Capavitacion Modelo Vista Controlador\ejecucion\ejecucion\obj\Debug\ejecucion.pdb
